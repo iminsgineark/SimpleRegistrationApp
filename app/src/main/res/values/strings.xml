@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login Page JetPackCompose</string>
+    <string name="Hello">Hey There, </string>
+    <string name="createAccount">Create An Account</string>
+    <string name="welcomeback">Welcome Back</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="Email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="hidePassword">Hide Password</string>
+    <string name="showPassword">Show Password</string>
+    <string name="termsConditions">By Continuing you accept our Privacy Policy and Terms of uses</string>
+    <string name="termsAndconditions">Terms Of Use\n</string>
+    <string name="register">Register</string>
+    <string name="goToLogin">Already Have An Account? Login</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="forgotPassword">Forgot Your Password?</string>
+
+</resources>
